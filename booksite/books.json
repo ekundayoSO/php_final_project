@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "description": "Harper Lee's masterpiece explores racial injustice and moral growth through the eyes of a young girl in the American South.",
+    "author": "Harper Lee",
+    "publishing_year": 1960,
+    "genre": "Classic Literature"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "description": "George Orwell's dystopian novel depicts a totalitarian regime where individuality and truth are suppressed.",
+    "author": "George Orwell",
+    "publishing_year": 1949,
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "description": "Jane Austen's classic romance explores social class, manners, and love in early 19th-century England.",
+    "author": "Jane Austen",
+    "publishing_year": 1813,
+    "genre": "Romance"
+  },
+  {
+    "id": 4,
+    "title": "Moby-Dick",
+    "description": "Herman Melville's epic tale follows Captain Ahab's obsessive quest for revenge against the white whale.",
+    "author": "Herman Melville",
+    "publishing_year": 1851,
+    "genre": "Adventure"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "description": "J.D. Salinger's novel portrays the angst and alienation of a teenager in 1950s America.",
+    "author": "J.D. Salinger",
+    "publishing_year": 1951,
+    "genre": "Coming-of-age"
+  },
+  {
+    "id": 6,
+    "title": "Frankenstein",
+    "description": "Mary Shelley's Gothic novel explores themes of ambition, creation, and the consequences of playing God.",
+    "author": "Mary Shelley",
+    "publishing_year": 1818,
+    "genre": "Horror"
+  },
+  {
+    "id": 7,
+    "title": "The Great Gatsby",
+    "description": "F. Scott Fitzgerald's novel delves into the American Dream and the decadence of the Jazz Age.",
+    "author": "F. Scott Fitzgerald",
+    "publishing_year": 1925,
+    "genre": "Classic Literature"
+  },
+  {
+    "id": 8,
+    "title": "Brave New World",
+    "description": "Aldous Huxley's novel presents a futuristic society where technology and conditioning control human behavior.",
+    "author": "Aldous Huxley",
+    "publishing_year": 1932,
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 9,
+    "title": "Jane Eyre",
+    "description": "Charlotte Brontë's novel tells the story of an orphaned governess who falls in love with her enigmatic employer.",
+    "author": "Charlotte Brontë",
+    "publishing_year": 1847,
+    "genre": "Romance"
+  },
+  {
+    "id": 10,
+    "title": "The Adventures of Huckleberry Finn",
+    "description": "Mark Twain's novel follows the adventures of a young boy and a runaway slave as they travel down the Mississippi River.",
+    "author": "Mark Twain",
+    "publishing_year": 1884,
+    "genre": "Adventure"
+  },
+  {
+    "id": 11,
+    "title": "Neverwhere",
+    "description": "Neil Gaiman's fantasy novel follows Richard Mayhew as he discovers the hidden world of London Below and embarks on a quest to help Door, a young woman from this mysterious realm.",
+    "author": "Neil Gaiman",
+    "publishing_year": 1996,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 12,
+    "title": "The Time Traveler's Wife",
+    "description": "Audrey Niffenegger's novel tells the love story of Clare Abshire and Henry DeTamble, a man with a genetic disorder that causes him to time travel unpredictably.",
+    "author": "Audrey Niffenegger",
+    "publishing_year": 2003,
+    "genre": "Romance"
+  },
+  {
+    "id": 13,
+    "title": "The Shadow of the Wind",
+    "description": "Carlos Ruiz Zafón's novel follows Daniel Sempere as he discovers a mysterious book and becomes entangled in its secrets, leading him on a journey through post-war Barcelona.",
+    "author": "Carlos Ruiz Zafón",
+    "publishing_year": 2001,
+    "genre": "Mystery"
+  },
+  {
+    "id": 14,
+    "title": "Eragon",
+    "description": "Christopher Paolini's fantasy novel follows the story of a young farm boy named Eragon who discovers a dragon egg and becomes embroiled in an ancient conflict.",
+    "author": "Christopher Paolini",
+    "publishing_year": 2002,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 15,
+    "title": "The Lovely Bones",
+    "description": "Alice Sebold's novel narrated by Susie Salmon, a young girl who was murdered and watches from her personal Heaven as her family and friends cope with her death.",
+    "author": "Alice Sebold",
+    "publishing_year": 2002,
+    "genre": "Coming-of-age"
+  },
+  {
+    "id": 16,
+    "title": "The Princess Diaries",
+    "description": "Meg Cabot's novel follows Mia Thermopolis as she navigates high school, friendships, and romance while discovering she's the heir to the throne of a small European principality.",
+    "author": "Meg Cabot",
+    "publishing_year": 2000,
+    "genre": "Coming-of-age"
+  },
+  {
+    "id": 17,
+    "title": "His Dark Materials: The Golden Compass",
+    "description": "Philip Pullman's fantasy novel follows Lyra Belacqua as she embarks on a journey to the Arctic to rescue kidnapped children and uncover a sinister plot.",
+    "author": "Philip Pullman",
+    "publishing_year": 1995,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 18,
+    "title": "The Name of the Wind",
+    "description": "Patrick Rothfuss' fantasy novel follows the life of Kvothe, a gifted young man who grows up to become the most notorious wizard his world has ever seen.",
+    "author": "Patrick Rothfuss",
+    "publishing_year": 2007,
+    "genre": "Fantasy"
+  },
+  {
+    "id": 19,
+    "title": "The Da Vinci Code",
+    "description": "Dan Brown's thriller follows symbologist Robert Langdon as he investigates a murder in the Louvre and uncovers a centuries-old conspiracy.",
+    "author": "Dan Brown",
+    "publishing_year": 2003,
+    "genre": "Mystery"
+  },
+  {
+    "id": 20,
+    "title": "Memoirs of a Geisha",
+    "description": "Arthur Golden's historical novel tells the story of Sayuri, a young Japanese girl who trains to become a geisha in pre-World War II Japan.",
+    "author": "Arthur Golden",
+    "publishing_year": 1997,
+    "genre": "Historical Fiction"
+  }
+]
